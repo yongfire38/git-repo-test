@@ -59,3 +59,9 @@ public class SpringBootUptimeApplication implements ApplicationListener<Applicat
 
 - 해당 내용은 공유가 필요한 관계로 긴급하게 2번이 push를 진행함
 - 작업자들은 해당 내용을 받아서 추가로 작업을 진행할 것
+
+### 추가 내용
+
+- 해당 내용은 테스트를 위해 1번이 추가해서 작업해 놓은 내용임
+- 설명이 부족한 거 같아서 1번이 작업한 내용을 조금 더 추가
+- 기타 첨삭도 진행 (여기까지 1번 작업)

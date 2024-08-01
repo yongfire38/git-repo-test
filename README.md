@@ -54,3 +54,8 @@ public class SpringBootUptimeApplication implements ApplicationListener<Applicat
 ### 연결문서
 
 - [[Spring actuator]]
+
+### 긴급 추가 내용
+
+- 해당 내용은 공유가 필요한 관계로 긴급하게 2번이 push를 진행함
+- 작업자들은 해당 내용을 받아서 추가로 작업을 진행할 것

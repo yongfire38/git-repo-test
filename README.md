@@ -51,10 +51,6 @@ public class SpringBootUptimeApplication implements ApplicationListener<Applicat
 - https://velog.io/@zenon8485/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%95%A1%EC%B6%94%EC%97%90%EC%9D%B4%ED%84%B0
 - https://techblog.woowahan.com/9232/
 
-### 연결문서
-
-- [[Spring actuator]]
-
 ### 긴급 추가 내용
 
 - 해당 내용은 공유가 필요한 관계로 긴급하게 2번이 push를 진행함
